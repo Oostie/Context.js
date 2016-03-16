@@ -2,6 +2,7 @@
 
 <a href="http://lab.jakiestfu.com/contextjs/" target="_blank">Visit the Website, lab.jakiestfu.com/contextjs/</a>
 
+Forked version the prevent namespacing issues with Drupal.
 
 ## About
 
